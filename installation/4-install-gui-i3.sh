@@ -16,7 +16,18 @@ alacritty \
 neofetch \
 polybar \
 firefox-esr \
-nemo
+nemo \
+feh \
+btop \
+htop \
+dnsutils \
+duf \
+flameshot \
+python3 \
+python3-pip \
+python3-venv \
+tldr \
+vlc
 
 
 
