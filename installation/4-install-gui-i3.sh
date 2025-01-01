@@ -28,7 +28,10 @@ python3-pip \
 python3-venv \
 tldr \
 vlc \
-pulseaudio
+pulseaudio \
+dunst \
+fonts-firacode
+
 
 
 

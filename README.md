@@ -9,7 +9,7 @@ This repo contains:
 | Propery | Value | Rationale
 | :-- | :-- | :--
 | Distro | Debian 12 Bookworm | I need a comfortable, stable (boring) and respectable distro - Debian
-| Terminal | Alacritty | Often recommended modern terminal with simple configuration
+| Terminal | Wezterm | Often recommended modern terminal with rich configuration
 | Shell | Zsh + OhMyZSH | Simply great tool, one of first fancy Linux tools I have used
 | Editor | Visual Studio Code | Fast, powerfull extensions, great JSON configuration files
 | Window manager | i3 | Simple, conservative option for ricing Linux, doesn't shout that my distro has packages dated 2 years ago and GCC doesn't support C++26
@@ -19,4 +19,3 @@ This repo contains:
 | System monitor | Btop | Looks very nice
 | File manager | Nemo | Simple, conservative option for ricing Linux
 | Screenshots | Flameshot | Simply the greatest screenshot tool ever made
-
