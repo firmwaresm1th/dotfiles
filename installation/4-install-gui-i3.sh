@@ -11,6 +11,12 @@ x11-xserver-utils \
 picom \
 rofi \
 lightdm \
-i3
+i3 \
+alacritty \
+neofetch \
+polybar \
+firefox-esr \
+nemo
+
 
 
